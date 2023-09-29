@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A9F5D0&fontColor=424242&height=200&section=header&text=HEY's%20Github&fontSize=60" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SSung023)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
